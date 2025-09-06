@@ -1,0 +1,10 @@
+1. Create a bar chart to show the count of survivors and non-survivors. 
+2. Create a pie chart to show the distribution of male and female passengers. 
+3. Build a histogram to visualise the age distribution of the passengers. (0-10,-11- 20,21-30 …..) 
+4. Create a scatter plot to analyse the relationship between age and fare paid for the ticket.
+5. Build a donut chart to display the percentage of passengers embarked from each port.
+6. Create a table to show the top 10 passengers with the highest fares, including their names and ticket numbers.
+7. Build a card to display the average age of passengers and avg fare.
+8. Create a table to display the names of passengers who were under 18 years old and  did not survive. 
+9. Create a multi-row card to display the passenger details (Name, Age, Sex, Ticket, Fare, Cabin) for a selected passenger.
+10. Create a stacked column chart to compare the number of male and female passengers in each passenger class.
