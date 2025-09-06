@@ -15,4 +15,31 @@ The project explores passenger survival rates, demographics, fare distribution, 
 - **Rows:** 891  
 - **Columns:** PassengerId, Name, Age, Sex, Pclass, Fare, Survived, etc.
 
-<img width="1318" height="812" alt="image" src="https://github.com/user-attachments/assets/d77bfcaf-98b5-45ea-a078-c0448d9b82a8" />
+## 📸 Dashboard Preview
+
+![Titanic Dashboard Screenshot](path-to-your-image.png) <img width="1318" height="812" alt="image" src="https://github.com/user-attachments/assets/d77bfcaf-98b5-45ea-a078-c0448d9b82a8" />
+
+## 🔑 Key Insights
+- Women and children had higher survival rates.  
+- Passengers in 1st class survived more compared to 3rd class.  
+- Fare played an important role in survival probability.  
+- Age distribution showed more young adults onboard.
+
+## 🛠️ Tools & Technologies
+- Power BI (Dashboard & Visualizations)  
+- Excel / CSV (Data Preprocessing)  
+- Kaggle Titanic Dataset
+  
+## 📂 How to Use
+1. Clone this repository  
+2. Open the `.pbix` file in Power BI  
+3. Explore the dashboard interactively
+
+## ✅ Conclusion
+This project demonstrates survival analysis using Power BI storytelling,  
+highlighting how data visualization can uncover meaningful insights.
+
+
+
+
+ 
