@@ -17,7 +17,7 @@ The project explores passenger survival rates, demographics, fare distribution, 
 
 ## 📸 Dashboard Preview
 
-![Titanic Dashboard Screenshot](path-to-your-image.png) <img width="1318" height="812" alt="image" src="https://github.com/user-attachments/assets/d77bfcaf-98b5-45ea-a078-c0448d9b82a8" />
+![Titanic Dashboard](Titanic_Dashboard_Screenshot.png)
 
 ## 🔑 Key Insights
 - Women and children had higher survival rates.  
